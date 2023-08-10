@@ -162,7 +162,7 @@ public class InterfaceExample {
 	//	B b = new B(); (X)
 		
 	//	Showable s = new Showable();  
- //     인터페이스는 변수의 타입으로는 올 수 없다. 레퍼런스 타입이고 클래스이기 때문에. 그러나 new연산자로 생성할 수는 없다.  	
+ //     인터페이스는 변수의 타입으로는 올 수 있다. 레퍼런스 타입이고 클래스이기 때문에. 그러나 new연산자로 생성할 수는 없다.  	
 		
 		
 		B b= null;
